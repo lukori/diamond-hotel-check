@@ -1,0 +1,12 @@
+{
+  "name": "booking-checker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0",
+    "playwright": "^1.40.0"
+  }
+}
